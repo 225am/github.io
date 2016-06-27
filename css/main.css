@@ -13,7 +13,7 @@
 /*******************************************************************************************************************
 *  BASE                                                                                                            
 *******************************************************************************************************************/
-body {color: #747a3d;font: normal 14px Helvetica, Arial, Tahoma, Verdana;background: #f2f2f2 url('../img/background-repeat.png') repeat-x;padding-top: 515px}
+body {color: #747a3d;font: normal 14px Helvetica, Arial, Tahoma, Verdana;background: #f2f2f2 url('../img/background-repeat.png') repeat-x;padding-top: 600px}
 body.subpage {padding-top: 190px}
 p {line-height: 1.7em;margin-bottom: 15px}
 address {font-style: normal;padding-bottom: 15px;}
@@ -38,10 +38,10 @@ h4 {font-size: 1.3em;}
 *******************************************************************************************************************/
 #logo {position: absolute;top: 40px;width: 100%; text-align:center;}
 #slogan {font-size: 2em; font-family: "Permanent Marker", Helvetica, Arial;}
-#ipad {width: 692px;height: 539px;background: url('../img/ipad.png') no-repeat;position: absolute;top: 110px;left: 50%;margin: 0 0 0 -346px;}
+#ipad {width: 692px;height: 539px;background: url('../img/ipad.png') no-repeat;position: absolute;top: 180px;left: 50%;margin: 0 0 0 -346px;}
 #ipad .ribbon {display: block;position: absolute;top: -6px;left: -2px;width: 122px;height: 123px;background: url(../img/n_ribbon.png) no-repeat;}
 #ipad img {position: relative;top: 61px;left: 0px}
-#iphone {width: 692px;height: 431px;background: url('../img/iphone.png') no-repeat 95% 0;position: absolute;top: 250px;left: 50%;margin: 0 0 0 -346px;z-index: 10;}
+#iphone {width: 692px;height: 431px;background: url('../img/iphone.png') no-repeat 95% 0;position: absolute;top: 330px;left: 50%;margin: 0 0 0 -346px;z-index: 10;}
 #iphone img {position: absolute;top: 76px;right: 40px}
 
 /*******************************************************************************************************************
